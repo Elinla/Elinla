@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://animesher.com/orig/1/180/1801/18017/animesher.com_gif-study-1801720.gif?fbclid=IwZXh0bgNhZW0CMTAAAR0LvtZmHN16RcvqpJz0VA-ZWROqiXSYCl3lBqD107ht1mx4prdMxbVbyTk_aem_Dq9GXAQRoGG3OcqwsYA08g" alt="cuti">
+    <img src="https://media.giphy.com/media/aIO06EjWmQ7f2/giphy.gif?cid=ecf05e47gk4vq15iu3zomzc2cugcat68fsh0pa994zhnnmx5&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="cuti">
   </a>
 </p>
 
@@ -21,6 +21,6 @@
 
 <p align="center">
   <a href="">
-    <img src="https://animesher.com/orig/0/5/58/585/animesher.com_hayao-miyazaki-mimi-wo-sumaseba-ghibli-58536.gif" alt="cuti">
+    <img src="https://media.giphy.com/media/cKsXjwNQxtVncNBTey/giphy.gif?cid=ecf05e47urbl30phtc837udjmg21yff76tl156pu0i3rswbw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
   </a>
 </p>
