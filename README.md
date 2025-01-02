@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Linh xinxin 🐰</h1>
 
-<!--
-**Elinla/Elinla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="">
+    <img src="https://animesher.com/orig/1/180/1801/18017/animesher.com_gif-study-1801720.gif?fbclid=IwZXh0bgNhZW0CMTAAAR0LvtZmHN16RcvqpJz0VA-ZWROqiXSYCl3lBqD107ht1mx4prdMxbVbyTk_aem_Dq9GXAQRoGG3OcqwsYA08g" alt="cuti">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">xinh ziên năm nhứt 🙄</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,tailwind,js,ts,react,git" alt="Skills">
+  </a><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,express,nestjs,nextjs,nodejs,npm,docker,py" alt="Skills">
+  </a><br>
+</p>
+
+<h2 align="center">bé hom mún ik học âuuu 😭</h2>
+
+<p align="center">
+  <a href="">
+    <img src="https://animesher.com/orig/0/5/58/585/animesher.com_hayao-miyazaki-mimi-wo-sumaseba-ghibli-58536.gif" alt="cuti">
+  </a>
+</p>
