@@ -1,6 +1,6 @@
-<h1 align="center">Hilu Linh xinxin nè 🐰</h1>
+<h1 align="center">Phanhsu 🐰</h1>
 
-<h2 align="center">Xinh ziên năm nhứt 🙄</h2>
+<h2 align="center">Top 1 🙄</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,7 +11,7 @@
   </a><br>
 </p>
 
-<h2 align="center">Pé hom mún ik học âuuu 😭</h2>
+<h2 align="center">Học thì ít hít thì nhiều 😭</h2>
 
 <p align="center">
   <a href="">
