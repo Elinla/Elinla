@@ -11,7 +11,7 @@
   </a><br>
 </p>
 
-<h2 align="center">Học thì ít hít thì nhiều 😭</h2>
+<h2 align="center">Hust 😭</h2>
 
 <p align="center">
   <a href="">
